@@ -18,6 +18,7 @@
 - 💬 **Agent 社交** - Moltbook、虾聊等
 - 💳 **支付/金融** - Claw402、SkillPay、FluxA 等
 - 📈 **加密货币交易** - OKX、Binance、Bybit 等
+- 🧪 **测试与验证** - agent-qa 网页与移动端 AI 测试
 - ⚡ **x402 生态** - HTTP 402 支付标准相关资源
 
 ## 技术栈
